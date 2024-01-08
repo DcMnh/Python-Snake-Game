@@ -28,7 +28,8 @@ Download the source code from the repository and run the file just as any other 
 Active Game Screen
 ![Active Game Screen](https://github.com/DcMnh/Python-Snake-Game/assets/124702144/33914e58-9d56-4021-8b85-c37c47fb786f)
 
-Game Over Scrren
+
+Game Over Screen
 ![Game Over Screen](https://github.com/DcMnh/Python-Snake-Game/assets/124702144/db6825a7-7fa7-4114-8235-7790f9b20ed3)
 
 
